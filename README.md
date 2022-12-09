@@ -4,3 +4,4 @@
 # Cronjob yazmaya çalıştım ama başarılı bir şekilde çalışturamadım
 ![image](https://user-images.githubusercontent.com/83767839/206673468-0c0035c7-aaa2-4e94-9364-0439a0b73fd6.png)
 
+# SOLR servisim hiç çalışmadı
